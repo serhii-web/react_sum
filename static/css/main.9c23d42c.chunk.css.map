@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,KACE,iBAAkB,CAClB,UAAY,CACZ,wBAAwC","file":"main.9c23d42c.chunk.css","sourcesContent":["// styles go here\nbody {\n  border-width: 30px;\n  color: white;\n  background-color: rgba($color: #05221b42, $alpha: 1);\n}\n"]}
